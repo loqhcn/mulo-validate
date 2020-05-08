@@ -1,4 +1,17 @@
-var Validate = require('./lib/Validate.js')
+## zoo-common validate独立包
+
+## 安装
+
+```
+npm i mulo-validate --save
+
+```
+
+## 使用
+
+```javascript
+
+var Validate = require('mulo-validate')
 
 
 var data = { name: '1', age: 13 }
@@ -14,3 +27,12 @@ if (!validate.check(data, true)) {
     var errors = validate.getErrors();
     return;
 }
+
+```
+
+## 文档
+
+文档地址 [http://zoo-common.loqh.cn/#/plugin/validate](http://zoo-common.loqh.cn/#/plugin/validate)
+
+## 规则
+

@@ -30,9 +30,6 @@ if (!validate.check(data, true)) {
 
 ```
 
-## 文档
-
-文档地址 [http://zoo-common.loqh.cn/#/plugin/validate](http://zoo-common.loqh.cn/#/plugin/validate)
 
 ## 规则
 
