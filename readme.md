@@ -1,4 +1,6 @@
-## zoo-common validate独立包
+## 一个和thinkphp验证规则类似的前端验证
+
+[文档地址](https://loqhcn.github.io/mulo-validate)
 
 ## 安装
 
