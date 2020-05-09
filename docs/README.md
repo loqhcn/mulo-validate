@@ -1,4 +1,4 @@
-## zoo-common validate独立包
+## 使用方式和thinkphp-validate一样的前端验证
 
 ## 安装
 

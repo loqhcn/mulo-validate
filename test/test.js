@@ -5,7 +5,7 @@ var Validate = require('./../dist/Validate.js')
 
 describe('验证规则', function () {
 
-    it('必填 require', function () {
+    it('必填 require1', function () {
 
         var validate = new Validate({
             'name|名字': 'require',

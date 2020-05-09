@@ -54,6 +54,7 @@ module.exports = function(config) {
 
 
     // enable / disable watching file and executing tests whenever any file changes
+    // 监听测试文件改变后立即执行测试
     autoWatch: true,
 
 
